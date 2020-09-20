@@ -50,6 +50,6 @@ public class Ex13 {
             sum += i;
         }
         return sum;
-        // 7return Arrays.stream(arrays).sum();
+        // return Arrays.stream(arrays).sum();
     }
 }
