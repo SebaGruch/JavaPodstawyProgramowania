@@ -6,7 +6,7 @@ public class Ex3 {
         System.out.println(getIndex("Ala ma kota", "ma"));
         System.out.println(getIndex("Ala ma kota", "psa"));
         System.out.println(getIndex("Ala ma kota", "a k"));
-        System.out.println(getIndex("Ala ma kota", ""));
+        System.out.println(getIndex("Ala ma kota", null));
 
     }
 
