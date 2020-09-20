@@ -10,7 +10,7 @@ public class Ex666 {
                 + arrays[0][2]
                 + arrays[1][1]
                 + arrays[2][0];
-        int sum = arrays[0][0]
+        int sum2 = arrays[0][0]
                 + arrays[0][1]
                 + arrays[0][2]
                 + arrays[1][0]
