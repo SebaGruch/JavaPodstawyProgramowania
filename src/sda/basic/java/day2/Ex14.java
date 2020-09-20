@@ -1,5 +1,7 @@
 package sda.basic.java.day2;
 
+import java.util.Arrays;
+
 public class Ex14 {
     public static void main(String[] args) {
         int[] arrays = {12, -7, 19, -5};
@@ -21,7 +23,7 @@ public class Ex14 {
         int[] newArray = new int[lenght];
                for (int i = 0, j = 0; i < arrays.length; i++) {
             if (arrays[i] < 0){
-                newArray[i] = arrays[i];
+                newArray[j] = arrays[i];
                 j++;
             }
         }
